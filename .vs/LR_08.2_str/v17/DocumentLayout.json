@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\allCode\\ap_all_code\\LR_08.2_str\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8790BC4-72F5-40DB-8C85-3F025DD7C977}|LR_08.2_str.vcxproj|D:\\allCode\\ap_all_code\\LR_08.2_str\\LR_08.2_str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8790BC4-72F5-40DB-8C85-3F025DD7C977}|LR_08.2_str.vcxproj|solutionrelative:LR_08.2_str.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D854EC-910A-4C08-A5CD-80B071A41365}|UnitTest1\\UnitTest1.vcxproj|D:\\allCode\\ap_all_code\\LR_08.2_str\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46D854EC-910A-4C08-A5CD-80B071A41365}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\allCode\\ap_all_code\\LR_08.2_str\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\allCode\\ap_all_code\\LR_08.2_str\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T16:46:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR_08.2_str.cpp",
+              "DocumentMoniker": "D:\\allCode\\ap_all_code\\LR_08.2_str\\LR_08.2_str.cpp",
+              "RelativeDocumentMoniker": "LR_08.2_str.cpp",
+              "ToolTip": "D:\\allCode\\ap_all_code\\LR_08.2_str\\LR_08.2_str.cpp",
+              "RelativeToolTip": "LR_08.2_str.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T18:18:23.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
